@@ -1,0 +1,29 @@
+
+.wall {
+    background-color: #c6e7ff;  
+    margin: 25px 0;
+    border: 3px dashed #ff0000;  
+}
+
+.wall .row:nth-child(1) {
+    background-color: #537188;  
+    display: flex;             
+    justify-content: space-around;
+    align-items: center;
+}
+
+.wall .row:nth-child(2) {
+    background-color: #537188;  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 25px 0;  
+}
+
+.wall .row:nth-child(3) {
+    background-color: #537188;  
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    align-items: center;
+}
