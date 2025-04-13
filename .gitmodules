@@ -1,3 +1,6 @@
+[submodule "mp0"]
+	path = mp0
+	url = https://github.com/brianmcmanus2000/cs409-web-programming.git
 [submodule "mp1"]
 	path = mp1
 	url = https://github.com/brianmcmanus2000/cs409-web-programming.git
